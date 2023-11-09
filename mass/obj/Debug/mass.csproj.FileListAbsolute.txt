@@ -1,0 +1,8 @@
+D:\ОвчарукМарков 215\mass\bin\Debug\mass.exe.config
+D:\ОвчарукМарков 215\mass\bin\Debug\mass.exe
+D:\ОвчарукМарков 215\mass\bin\Debug\mass.pdb
+D:\ОвчарукМарков 215\mass\obj\Debug\mass.csproj.AssemblyReference.cache
+D:\ОвчарукМарков 215\mass\obj\Debug\mass.csproj.SuggestedBindingRedirects.cache
+D:\ОвчарукМарков 215\mass\obj\Debug\mass.csproj.CoreCompileInputs.cache
+D:\ОвчарукМарков 215\mass\obj\Debug\mass.exe
+D:\ОвчарукМарков 215\mass\obj\Debug\mass.pdb
